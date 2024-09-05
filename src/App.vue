@@ -1,8 +1,4 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
   <router-view />
 </template>
 
@@ -12,19 +8,21 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
 }
-
-nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+html {
+  overflow-y: auto !important;
+}
+body {
+  background-color: var(--main-color);
+}
+:root {
+  --main-color: black;
+  --secound-color: #e6ad58;
+  --third-color: #222324;
+  --fourth-color: white;
+  --grey-color: #282829;
+  --light-grey: #ccc;
+  --transition-1: 0.25s ease;
+  --transition-2: 0.5s ease-in-out;
 }
 </style>
