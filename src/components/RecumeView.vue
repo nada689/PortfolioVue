@@ -117,6 +117,27 @@ export default {
       ],
       experienceTimeline: [
         {
+          title: "Front-end Developer<br />Vision Company",
+          period: "2024/12 - present",
+          description: `•Developing and maintaining web applications using Drupal CMS.
+  <br />
+•Implemented dynamic and responsive user interfaces adaptable to various devices.
+  <br />
+•Worked within a team to build web applications with frontend technologies.
+  <br />
+•Enhanced user experience by implementing interactive and attractive interface designs.`,
+        },
+        {
+          title:
+            "Technical Instructor (DECI Program)<br />YAT Learning Solutions",
+          period: "2025/01 - present",
+          description: `•Conducted training sessions on web development, programming, and AI using interactive methods.
+  <br />
+•Fostered creativity and innovation through hands-on projects and tech challenges.
+  <br />
+•Developed students’ critical thinking, problem-solving, and teamwork skills.`,
+        },
+        {
           title: "Remotely Front End developer ,Team Leader  <br />Salem Team",
           period: "2024/03 - Present",
           description: `•Developing and maintaining web applications using Vue.js.

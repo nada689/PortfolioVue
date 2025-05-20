@@ -41,6 +41,18 @@ export default {
     return {
       projects: [
         {
+          title: "ELHAFEZ",
+          category: "Web development (Team Project)",
+          image: "elhafez.png",
+          link: "https://al-hafidh.com/",
+        },
+        {
+          title: "GCS",
+          category: "Web development (Team Project)",
+          image: "gcs.png",
+          link: "https://gcs-coding.com/",
+        },
+        {
           title: "Alseraj Platform",
           category: "Web development (Team Project)",
           image: "alseraj.png",
