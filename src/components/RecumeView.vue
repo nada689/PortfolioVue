@@ -138,8 +138,17 @@ export default {
 •Developed students’ critical thinking, problem-solving, and teamwork skills.`,
         },
         {
+          title:
+            "President of the Employment Committee<br />Arab Open University Alumni Council",
+          period: "2023/11 - present",
+          description: `•Providing job opportunities and offers to fresh graduates through collection and coordination with many companies.
+          <br />
+•Vice President of the Finance Committee
+Fund-raising and efficient allocation to different student's activities.`,
+        },
+        {
           title: "Remotely Front End developer ,Team Leader  <br />Salem Team",
-          period: "2024/03 - Present",
+          period: "2024/03 - 2024/08",
           description: `•Developing and maintaining web applications using Vue.js.
           <br />
 •Implemented dynamic and responsive user interfaces adaptable to various devices.
@@ -149,15 +158,6 @@ export default {
 •Integrated Firebase services for authentication and real-time data storage.
 <br />
 •Enhanced user experience by implementing interactive and attractive interface designs.`,
-        },
-        {
-          title:
-            "President of the Employment Committee<br />Arab Open University Alumni Council",
-          period: "2023/11 - present",
-          description: `•Providing job opportunities and offers to fresh graduates through collection and coordination with many companies.
-          <br />
-•Vice President of the Finance Committee
-Fund-raising and efficient allocation to different student's activities.`,
         },
         {
           title: "Organiser <br /> Egyptian Programmers Academy",
