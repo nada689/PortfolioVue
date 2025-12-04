@@ -43,7 +43,7 @@
     </v-card>
 
     <!-- Experience Timeline -->
-    <v-card class="mb-4 text-start" variant="text">
+    <v-card class="experience_timeline mb-4 text-start" variant="text">
       <v-card-title class="d-flex align-center justify-end">
         <h3 class="h3 ml-2">Experience</h3>
         <v-icon>mdi-briefcase</v-icon>
@@ -63,12 +63,12 @@
             size="x-small"
             dot-color="var(--secound-color)"
           >
-            <v-card variant="text">
+            <v-card class="experience_card" variant="text">
               <v-card-title>
                 <h4 class="h4" v-html="item.title"></h4>
               </v-card-title>
               <v-card-subtitle>
-                <span>{{ item.period }}</span>
+                <span class="d-block">{{ item.period }}</span>
               </v-card-subtitle>
               <v-card-text v-html="item.description"></v-card-text>
             </v-card>
@@ -137,7 +137,7 @@ export default {
   <br />
 •Enhanced user experience by implementing interactive and attractive interface designs.`,
         },
-        
+
         {
           title:
             "President of the Employment Committee<br />Arab Open University Alumni Council",
