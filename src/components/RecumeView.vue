@@ -117,17 +117,6 @@ export default {
       ],
       experienceTimeline: [
         {
-          title: "Front-end Developer<br />Vision Company",
-          period: "2024/12 - present",
-          description: `•Developing and maintaining web applications using Drupal CMS.
-  <br />
-•Implemented dynamic and responsive user interfaces adaptable to various devices.
-  <br />
-•Worked within a team to build web applications with frontend technologies.
-  <br />
-•Enhanced user experience by implementing interactive and attractive interface designs.`,
-        },
-        {
           title:
             "Technical Instructor (DECI Program)<br />YAT Learning Solutions",
           period: "2025/01 - present",
@@ -137,6 +126,18 @@ export default {
   <br />
 •Developed students’ critical thinking, problem-solving, and teamwork skills.`,
         },
+        {
+          title: "Front-end Developer<br />Vision Company",
+          period: "2024/10 - 2025/10",
+          description: `•Developing and maintaining web applications using Drupal CMS.
+  <br />
+•Implemented dynamic and responsive user interfaces adaptable to various devices.
+  <br />
+•Worked within a team to build web applications with frontend technologies.
+  <br />
+•Enhanced user experience by implementing interactive and attractive interface designs.`,
+        },
+        
         {
           title:
             "President of the Employment Committee<br />Arab Open University Alumni Council",
