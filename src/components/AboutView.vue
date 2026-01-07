@@ -35,7 +35,7 @@
                 color: var(--fourth-color);
               "
               variant="text"
-              href="https://drive.google.com/file/d/1yxcv4vtCc-2o98YnIkZa8S1kEhTSm8yG/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1MADOpVOMh4I-aGlWgEOsKexdGc0FdARB/view?usp=sharing"
               >My CV</v-btn
             >
           </v-card-text>
